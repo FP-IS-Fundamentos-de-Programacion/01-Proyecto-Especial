@@ -2,7 +2,7 @@
 
 ## Presentación
 
-Este proyecto es para aquellos estudiantes que ya adquirieron los fundamentos de programación y por lo tanto no es necesario que asistan a clases
+Este proyecto es para aquellos estudiantes que ya adquirieron los fundamentos de programación y por lo tanto es posible que ya no sea es necesario que asistan a clases
 
 ## Instrucciones
 
