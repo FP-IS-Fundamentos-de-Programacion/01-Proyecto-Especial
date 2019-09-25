@@ -6,13 +6,13 @@ Este proyecto es para aquellos estudiantes que ya adquirieron los fundamentos de
 
 ## Instrucciones
 
-Utilizando HTML+CSS+JS programar una página web que permita administrar una lista de tareas por realizar (TODO). La página permitirá
+Utilizando HTML+CSS+JS programar una página web que permita administrar una lista de tareas por realizar (TODO). La página permitirá:
 
 - Agregar una nueva tarea
 - Modificar una tarea existente
 - Eliminar una tarea existente
 - Marcar una tarea como realizada
-  - Al marcada como realizada se borrará de manera automática
+  - Al marcarla como realizada se borrará de manera automática
 
 Las tareas deberán guardarse de manera local (LocalStorage) y cada tarea deberá contener la siguiente información
 
